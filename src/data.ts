@@ -13,7 +13,7 @@ export const products: Product[] = [
   {
     id: '2',
     name: 'Sérum Ácido Hialurónico',
-    category: 'skin care',
+    category: 'skincare',
     price: 68.00,
     brand: 'ProCare',
     image: 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=800&auto=format&fit=crop',
