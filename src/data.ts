@@ -13,7 +13,7 @@ export const products: Product[] = [
   {
     id: '2',
     name: 'Sérum Ácido Hialurónico',
-    category: 'skincare',
+    category: 'skin care',
     price: 68.00,
     brand: 'ProCare',
     image: 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=800&auto=format&fit=crop',
@@ -22,7 +22,7 @@ export const products: Product[] = [
   {
     id: '3',
     name: 'Máscara de Pestañas Volume Up',
-    category: 'makeup',
+    category: 'maquillaje',
     price: 32.00,
     brand: 'Natura',
     image: 'https://images.unsplash.com/photo-1512496015851-a90fb38ba796?q=80&w=800&auto=format&fit=crop',
