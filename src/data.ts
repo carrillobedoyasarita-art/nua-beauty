@@ -36,14 +36,6 @@ export const products: Product[] = [
     image: 'https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop',
   },
   {
-    id: '5',
-    name: 'Limpiador Facial Suave',
-    category: 'skincare',
-    price: 28.00,
-    brand: 'Natura',
-    image: 'https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop',
-  },
-  {
     id: '6',
     name: 'Kit de Estética Post-Tratamiento',
     category: 'esthetics',
@@ -58,8 +50,7 @@ export const tips: Tip[] = [
     id: '1',
     title: 'Rutina de Noche para Piel Radiante',
     category: 'skincare',
-    <source src="https://cdn.pixabay.com/video/2025/04/06/270065_large.mp4" type="video/mp4" />
-              </video>
+    image: 'https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop',
     excerpt: 'Descubre los pasos esenciales para despertar con una piel descansada y luminosa.'
   },
   {
