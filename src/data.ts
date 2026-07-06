@@ -41,7 +41,7 @@ export const products: Product[] = [
     category: 'skincare',
     price: 28.00,
     brand: 'Natura',
-    image: '/src/assets/images/limpiador_facial_suave_1783297081627.jpg'
+    image: limpiadorFacial
   },
   {
     id: '6',
@@ -49,7 +49,7 @@ export const products: Product[] = [
     category: 'esthetics',
     price: 120.00,
     brand: 'Professional Line',
-    image: '/src/assets/images/kit_post_tratamiento_1783297093417.jpg',
+    image: kitPostTratamiento
   }
 ];
 
