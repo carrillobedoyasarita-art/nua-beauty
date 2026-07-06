@@ -58,21 +58,21 @@ export const tips: Tip[] = [
     id: '1',
     title: 'Rutina de Noche para Piel Radiante',
     category: 'skincare',
-    image: 'https://ais-dev-v7gxwow5kcp2xi7khbkhg3-552417493403.us-east1.run.app/src/assets/images/rutina_noche_radiante_1783297111787.jpg',
+    image: '/src/assets/images/rutina_noche_radiante_1783297111787.jpg',
     excerpt: 'Descubre los pasos esenciales para despertar con una piel descansada y luminosa.'
   },
   {
     id: '2',
     title: 'Tips para el Cuidado Capilar en Verano',
     category: 'hair',
-    image: '/src/assets/images/cuidado_capilar_verano_1783297124484.jpg',
+    image: 'https://images.unsplash.com/photo-1522337660859-02fbefca4702?q=80&w=800&auto=format&fit=crop',
     excerpt: 'Protege tu cabello del sol y el cloro con estos consejos infalibles.'
   },
   {
     id: '3',
     title: 'Maquillaje "No-Makeup" en 5 Minutos',
     category: 'makeup',
-    image: '/src/assets/images/maquillaje_no_makeup_look_1783297135189.jpg',
+    image: 'https://images.unsplash.com/photo-1516975080664-ed2fc6a32937?q=80&w=800&auto=format&fit=crop',
     excerpt: 'Aprende a resaltar tu belleza natural con muy pocos productos.'
   }
 ];
