@@ -41,7 +41,7 @@ export const products: Product[] = [
     category: 'skincare',
     price: 28.00,
     brand: 'Natura',
-    image: limpiadorFacial
+    image: 'https://images.unsplash.com/photo-1608248597279-f99d160bfcbc?q=80&w=800&auto=format&fit=crop',
   },
   {
     id: '6',
@@ -49,7 +49,7 @@ export const products: Product[] = [
     category: 'esthetics',
     price: 120.00,
     brand: 'Professional Line',
-    image: kitPostTratamiento
+    image: 'https://images.unsplash.com/photo-1620916566398-39f1143ab7be?q=80&w=800&auto=format&fit=crop',
   }
 ];
 
@@ -58,7 +58,7 @@ export const tips: Tip[] = [
     id: '1',
     title: 'Rutina de Noche para Piel Radiante',
     category: 'skincare',
-    image: '/src/assets/images/rutina_noche_radiante_1783297111787.jpg',
+    image: 'https://ais-dev-v7gxwow5kcp2xi7khbkhg3-552417493403.us-east1.run.app/src/assets/images/rutina_noche_radiante_1783297111787.jpg',
     excerpt: 'Descubre los pasos esenciales para despertar con una piel descansada y luminosa.'
   },
   {
