@@ -4,7 +4,7 @@ export const products: Product[] = [
   {
     id: '1',
     name: 'Base de Maquillaje Natural Glow',
-    category: 'makeup',
+    category: 'constituir',
     price: 45.00,
     brand: 'Natura',
     image: 'https://images.unsplash.com/photo-1596704017254-9b121068fb31?q=80&w=800&auto=format&fit=crop',
