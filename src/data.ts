@@ -58,7 +58,8 @@ export const tips: Tip[] = [
     id: '1',
     title: 'Rutina de Noche para Piel Radiante',
     category: 'skincare',
-    image: '/src/assets/images/rutina_noche_radiante_1783297111787.jpg',
+    <source src="https://cdn.pixabay.com/video/2025/04/06/270065_large.mp4" type="video/mp4" />
+              </video>
     excerpt: 'Descubre los pasos esenciales para despertar con una piel descansada y luminosa.'
   },
   {
